@@ -1,0 +1,6 @@
+nombre=input("¿Cuál es su nombre? ")
+sexo=input("¿Es hombre o mujer? ")
+direccion=input("¿Dónde vive? ")
+telefono=input("Ingrese su número telefónico: ")
+correo=input("Ingrese su Correo electrónico: ")
+print("\nMuchas gracias por indicar sus datos\n" f"Usted es {nombre}, es {sexo} y reside en {direccion}.\nCualquier comunicacion con usted lo contactaremos a su número {telefono} o le escribiremos a su correo {correo}.")
